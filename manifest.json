@@ -1,0 +1,9 @@
+{
+  "name": "訓練計画の共有",
+  "short_name": "訓練計画の共有",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#2f6fb3",
+  "lang": "ja"
+}
